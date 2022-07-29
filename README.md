@@ -1,6 +1,6 @@
 ## Overview
 
-RecipeBook is a recipe search and sharing website built with React, Express, Node, and Twilio.
+RecipeBook is a recipe search and sharing website built with React, Express.js, Node.js, and Twilio.
 
 The app is powered by the Edamam Recipe Search API which allows users to search over 2.3 million recipes on the web. The app also allows users to send recipes that they like to their personal numbers, if they so choose.
 
