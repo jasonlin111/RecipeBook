@@ -1,5 +1,5 @@
 import {useState} from "react";
-import style from './SMSForm.css'
+import style from './SMSForm.module.css'
 
 function SMSForm({message}) {
    const [phone, setPhone] = useState("")
