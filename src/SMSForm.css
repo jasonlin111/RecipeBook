@@ -1,0 +1,25 @@
+.textForm{
+   min-height: 10vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+ 
+ .textBar{
+   width: 25%;
+   background:rgba(255, 246, 242, 0.9);
+   border-right:none;
+   border-color: black;
+   font-size:large;
+   padding: 10px 20px;
+ }
+ 
+ .sendButton{
+   background: rgba(136, 188, 23, 0.9);
+   border-color: black;
+   padding: 10px 20px;
+   color: rgb(255, 255, 255);
+   font-weight: bold;
+   font-size: large;
+   cursor: pointer;
+ }
