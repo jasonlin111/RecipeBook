@@ -4,6 +4,8 @@ RecipeBook is a recipe search and sharing website built with React, Express.js, 
 
 The app is powered by the Edamam Recipe Search API which allows users to search over 2.3 million recipes on the web. The app also allows users to send recipes that they like to their personal numbers, if they so choose.
 
+![homepage](https://github.com/jasonlin111/RecipeBook/blob/522a9b7116eff049fe561fa757ba333839b64f50/README_PHOTO.png)
+
 ## Getting Started
 
 ### 1. Install the necessary dependencies
